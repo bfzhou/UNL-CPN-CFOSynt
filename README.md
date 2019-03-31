@@ -1,11 +1,11 @@
 # UNL-CPN-CFOSynt
 Code repository for CFOSynt
 
-Cyber-Physical Networking Laboratory
-
-Department of Computer Science & Engineering
-
-University of Nebraska-Lincoln
+    Cyber-Physical Networking Laboratory
+    
+    Department of Computer Science & Engineering
+    
+    University of Nebraska-Lincoln
 
 ## Description
 This repository contains the code for paper:
