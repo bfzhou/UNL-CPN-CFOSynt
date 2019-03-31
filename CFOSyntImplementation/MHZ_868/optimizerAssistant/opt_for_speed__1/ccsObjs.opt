@@ -1,0 +1,1 @@
+"./RF_Toggle_LED_Demo.obj" "./HAL/HAL_PMM.obj" "./HAL/RF1A.obj" "./HAL/RfRegSettings.obj" "../lnk_cc430f5137.cmd" -l"libc.a" -l"libmath.a" 
